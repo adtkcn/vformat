@@ -14,6 +14,10 @@
 		"onCommand:v-format.format"
 	],
 	"main": "./extension.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:adtkcn/vformat.git"
+	},
 	"contributes": {
 		"commands": [
 			{
